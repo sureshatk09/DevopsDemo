@@ -1,5 +1,7 @@
 a = input(" enter you name")
 if a = "Avinash"
    break
- else
+   if Sujani
+   print s
+   else
    print A 
